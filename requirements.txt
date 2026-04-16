@@ -1,0 +1,8 @@
+lxml
+pdfplumber
+PyMuPDF
+pytesseract
+Pillow
+flask
+gunicorn
+python-dotenv
